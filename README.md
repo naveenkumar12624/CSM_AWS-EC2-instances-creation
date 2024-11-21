@@ -47,6 +47,7 @@ To set up and launch an Amazon EC2 instance, providing on-demand computing servi
 
 ![vcc5](https://github.com/user-attachments/assets/f59100ed-1281-46c2-a8ea-ee1927d5c0e5)
 
+<br></br>
 
 ## **Results**
 
